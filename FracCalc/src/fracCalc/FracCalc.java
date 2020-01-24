@@ -129,10 +129,6 @@ public class FracCalc {
 		int denominator3 = 1;
 		int num1 ;
 		int num2;
-		//	String plus = "+";
-		//	String minus = "-";
-		//	String mult = "*";
-		//	String divide = "/";
 		int numerator3 = 0;
 		int newNumerator3;
 
